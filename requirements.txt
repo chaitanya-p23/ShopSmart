@@ -1,0 +1,7 @@
+tkinter
+pandas
+lxml
+requests
+httpx
+beautifulsoup4
+cchardet
