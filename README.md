@@ -17,7 +17,7 @@ ShopSmart is a Python-based application that helps users compare prices and rati
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/chaitanya-p23/ShopSmart.git
+    git clone https://github.com/XeCipher/ShopSmart.git
     cd ShopSmart
     ```
 
